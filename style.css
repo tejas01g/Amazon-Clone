@@ -10,7 +10,7 @@
     color: white;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content:space-evenly;
 }
 
 .nav-logo{
@@ -22,7 +22,7 @@
     background-image: url("Images/amazon_logo.png");
     height: 50px;
     width: 100%;
-    background-size: cover;
+    background-size:cover;
 }
 
 .border{
